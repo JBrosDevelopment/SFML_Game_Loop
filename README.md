@@ -1,5 +1,8 @@
 # SFML Game Loop
 
+Install with Nuget:
+> `dotnet add package SFML_Game_Loop`
+
 A simple game loop class system that adds Start and Update functions to your SFML.Net project
 
 ```cs
