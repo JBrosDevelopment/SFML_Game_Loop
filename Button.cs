@@ -2,7 +2,7 @@
 using SFML.System;
 using SFML.Window;
 
-namespace Virus_Coding_Game
+namespace SFML_Game_Loop
 {
     public class Button : Drawable
     {
